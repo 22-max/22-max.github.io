@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style> body{background-color:rgb(255, 255, 255);}
+        #celeste {color:rgb(0, 113, 252);}
+        #amarillo{color:rgb(252, 202, 0);}
+        #rojo{color:rgb(255, 0, 0);}
+        #verde{color:rgb(0, 255, 34);}
+        .fotos{background-color:rgb(0, 255, 21);}
+        
+        
+        
+            
+            
+            
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to ....</h1>
+        <h2> Countries</h2>
+        <h3> <ul><li id="celeste"> Argentina</li>
+            <h5> Lugares turisticos:
+            <ol><li> Ciudad de Buenos Aires <img class="fotos" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Panorama_9_de_Julio_y_el_Obelisco.jpg"width="476"> </li>
+                <li>las Cataratas del Iguazú <br> <img class="fotos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Foz_de_Igua%C3%A7u_27_Panorama_Nov_2005.jpg/800px-Foz_de_Igua%C3%A7u_27_Panorama_Nov_2005.jpg" width="476" ></li>
+                    <li> el glaciar Perito Moreno <br> <img class="fotos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG/1024px-Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG"width="476"></li>
+                    <li>  las Sierras de Córdoba <br> <img class="fotos" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Sierras_de_la_Provincia_de_C%C3%B3rdoba_%28Argentina%29_2008-09-20.jpg" width="476"></li>
+                </ol>
+            </h5>
+        
+            <li id="amarillo"> Brasil</li>
+                <h5> lugares turisticos:
+                    <ol><li>Porto de Galinhas <br> <img class="fotos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Porto_de_Galinhas-003.jpg/800px-Porto_de_Galinhas-003.jpg" width="476"></li>
+                    <li>Bonito, Mato Grosso do Sul <br> <img class="fotos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Abismo_Anhumas%2C_Bonito%2C_MS.JPG/225px-Abismo_Anhumas%2C_Bonito%2C_MS.JPG" width="476"> </li>
+                    <li>Fernando de Noronha, Pernambuco <br> <img class="fotos" src ="https://upload.wikimedia.org/wikipedia/commons/1/1d/Fernando_de_Noronha_-_Pernambuco_-_Brasil%285%29.jpg" width="476"></li></ol>
+                </h5>
+            
+            <li id="rojo"> Peru </li>
+                <h5> Lugares turisticos:
+                    <ol><li> Machu Picchu <br> <img class="fotos" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Before_Machu_Picchu.jpg/800px-Before_Machu_Picchu.jpg" width="476"></li>
+                    <li>Arequipa <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Arequipa_Catedral_1.png/1280px-Arequipa_Catedral_1.png"width="476"class="fotos"> </li>
+                        <li>Valle del Colca<br> <img class="fotos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Colca_Canyon%2C_Peru.jpg/1024px-Colca_Canyon%2C_Peru.jpg" width="476"></li>
+                        <li>Vista de Puno y el Titicaca <br> <img class="fotos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vista_de_Puno_y_el_Titicaca%2C_Per%C3%BA%2C_2015-08-01%2C_DD_63.JPG/1280px-Vista_de_Puno_y_el_Titicaca%2C_Per%C3%BA%2C_2015-08-01%2C_DD_63.JPG" width="476"></li>
+                    </ol>
+                </h5>
+            
+            <li id="verde"> Bolivia</li>
+            <h5> Lugares turisticos:
+                <ol><li>el Huayna Potosí <br> <img class="fotos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/HuaynaPotosiMay022014.jpg/1024px-HuaynaPotosiMay022014.jpg" width="476"> </li>
+                <li>cataratas Arcoiris<br> <img class="fotos" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cataratas_Arcoiris_Bolivia.png" width="476"></li>
+                    <li> salar de Uyuni <br> <img class="fotos"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Vista_del_Salar_de_Uyuni.JPG/1024px-Vista_del_Salar_de_Uyuni.JPG" width="476"></li>
+                </ol>
+            </h5>
+            
+        </ul>
+            
+        </h3>
